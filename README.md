@@ -77,7 +77,6 @@ I'm a **results-driven FP&A professional** currently pursuing my MS in Finance a
 - 📧 **Email:** [maitrayeeanandvishnu@gmail.com](mailto:maitrayeeanandvishnu@gmail.com)
 - 💼 **LinkedIn:** [Maitrayee Vishnu](https://www.linkedin.com/in/maitrayee-vishnu/)
 - 🌐 **Portfolio:** [View My Work](https://maitrayee196.github.io/financial-portfolio/)
-- 📱 **Phone:** +1 551 344-3931
 
 ---
 
