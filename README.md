@@ -72,6 +72,6 @@ I'm excited about roles where finance shapes the strategy, not just reports it. 
 
 - **Email:** maitrayeeanandvishnu@gmail.com
 - **LinkedIn:** [Maitrayee Vishnu](https://www.linkedin.com/in/maitrayee-vishnu/)
-- **Portfolio:** [maitrayee196.github.io/Maitrayee_Portfolio](https://maitrayee196.github.io/Maitrayee_Anand_Vishnu_Portfolio/)
+- **Portfolio:** [maitrayee196.github.io/Maitrayee_Anand_Vishnu_Portfolio](https://maitrayee196.github.io/Maitrayee_Anand_Vishnu_Portfolio/)
 
 > *Turning analysis into decisions, and insight into impact.*
