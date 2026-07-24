@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maitrayee-vishnu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maitrayeeanandvishnu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A2540?style=for-the-badge&logo=github&logoColor=white)](https://maitrayee196.github.io/Maitrayee_Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A2540?style=for-the-badge&logo=github&logoColor=white)](https://maitrayee196.github.io/Maitrayee_Anand_Vishnu_Portfolio/)
 
 ---
 
@@ -72,6 +72,6 @@ I'm excited about roles where finance shapes the strategy, not just reports it. 
 
 - **Email:** maitrayeeanandvishnu@gmail.com
 - **LinkedIn:** [Maitrayee Vishnu](https://www.linkedin.com/in/maitrayee-vishnu/)
-- **Portfolio:** [maitrayee196.github.io/Maitrayee_Portfolio](https://maitrayee196.github.io/Maitrayee_Portfolio/)
+- **Portfolio:** [maitrayee196.github.io/Maitrayee_Portfolio](https://maitrayee196.github.io/Maitrayee_Anand_Vishnu_Portfolio/)
 
 > *Turning analysis into decisions, and insight into impact.*
